@@ -1,4 +1,4 @@
-# Command 1: `ls`
+# `ls`
 
 The `ls` command is used to list files and directories in Unix and Unix-like operating systems.
 
