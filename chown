@@ -1,0 +1,10 @@
+
+### Page 3: `chown`
+```markdown
+# Command 3: `chown`
+
+The `chown` command changes the user and/or group ownership of files.
+
+## Syntax
+```bash
+chown [OPTION]... [OWNER][:[GROUP]] FILE...
