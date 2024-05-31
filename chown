@@ -1,7 +1,6 @@
 
-### Page 3: `chown`
+### `chown`
 ```markdown
-# Command 3: `chown`
 
 The `chown` command changes the user and/or group ownership of files.
 
